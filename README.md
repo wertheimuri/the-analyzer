@@ -121,7 +121,34 @@ All findings are saved in a timestamped analysis folder (e.g. `file.mem_analysis
 This tool is developed for **educational purposes** and **authorised forensic investigations only**. Use only on systems and images you own or have explicit written permission to analyse. Unauthorised use is illegal.
 
 ---
+## Screenshots
 
+### Welcome & Launch
+![Welcome](Welcome.png)
+
+### File Path Entry & Folder Creation
+![filepath](Enterin_filepath_folder_made.png)
+
+### System Check & Tool Installation
+![install](entering_path_checking_system_installing_foremost.png)
+
+### Installing Volatility 3
+![volatility install](instaling_volatility.png)
+
+### Running Strings — Interactive Keyword Hunt
+![strings](runnibg_strings_interactive.png)
+
+### Volatility Memory Analysis Results
+![volatility results](volatility_results01.png)
+
+### Foremost Carving Results
+![foremost](formost_carving_results.png)
+
+### Final Forensic Inventory & Success
+![final](final_success.png)
+
+### Evidence Package — ZIP Archive & Contents
+![zip](The_zip_archive_result_and_his_content.png)
 ---
 
 ## Credits & Acknowledgements
