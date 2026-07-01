@@ -9,9 +9,9 @@
 
 ## Overview
 
-THE ANALYZER is an automated, end-to-end digital forensics pipeline designed for "Triage-to-Package" evidence analysis. It eliminates manual tool configuration, reduces human error, and ensures forensic integrity through automated MD5 hashing.
+THE ANALYZER is an automated, end-to-end digital forensics pipeline designed for "Triage-to-Package" evidence analysis. It eliminates manual tool configuration, reduces human error, and ensures forensic integrity throughout the investigation lifecycle.
 
-Given a memory dump or HDD image, THE ANALYZER runs a full investigation — from surface triage to deep memory forensics — and delivers a structured, packaged evidence archive ready for a lead investigator or client.
+Given a memory dump or HDD image, THE ANALYZER runs a full investigation — from surface triage to deep memory forensics — and delivers a structured, packaged evidence archive ready for a lead investigator.
 
 ---
 
@@ -118,19 +118,20 @@ All findings are saved in a timestamped analysis folder (e.g. `file.mem_analysis
 
 ## ⚠️ Disclaimer
 
-This tool is developed for **educational purposes** and **authorised forensic investigations only**. Use only on systems and images you own or have explicit written permission to analyse. Unauthorised use is illegal.
+This tool is developed for **educational purposes** and **authorised forensic investigations only**. Use only on systems and images you own or have explicit written permission to analyse. Unauthorised access to computer systems is illegal.
 
 ---
+
 ## Screenshots
 
 ### Welcome & Launch
 ![Welcome](Welcome.png)
 
 ### File Path Entry & Folder Creation
-![filepath](Enterin_filepath_folder_made.png)
+![filepath](Entering_filepath_folder_made.png)
 
 ### System Check & Tool Installation
-![install](entering_path_checking_system_installing_foremost.png)
+![install](entering_path_checking_system_installing%20foremost.png)
 
 ### Installing Volatility 3
 ![volatility install](instaling_volatility.png)
@@ -148,14 +149,15 @@ This tool is developed for **educational purposes** and **authorised forensic in
 ![final](final_success.png)
 
 ### Evidence Package — ZIP Archive & Contents
-![zip](The_zip_archive_result_and_his_content.png)
+![zip](The%20zip%20archive%20result%20and%20his%20content.png)
+
 ---
 
 ## Credits & Acknowledgements
 
 **Institution:** John Bryce Training, Tel Aviv — Cyber Magen Program  
 **Platform:** ThinkCyber — Learning environment and lab infrastructure  
-**Mentor:** David Shiffman — Founder of ThinkCyber | RTX Red Team eXpert Program  
+**Mentor:** David Schiffman — Founder of ThinkCyber | RTX Red Team eXpert Program  
 
 ---
 
