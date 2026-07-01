@@ -155,7 +155,7 @@ This tool is developed for **educational purposes** and **authorised forensic in
 
 **Institution:** John Bryce Training, Tel Aviv — Cyber Magen Program  
 **Platform:** ThinkCyber — Learning environment and lab infrastructure  
-**Mentor:** David Schiffman — Founder of ThinkCyber | RTX Red Team eXpert Program  
+**Mentor:** David Shiffman — Founder of ThinkCyber | RTX Red Team eXpert Program  
 
 ---
 
