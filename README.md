@@ -9,9 +9,9 @@
 
 ## Overview
 
-THE ANALYZER is an automated, end-to-end digital forensics pipeline designed for "Triage-to-Package" evidence analysis. It eliminates manual tool configuration, reduces human error, and ensures forensic integrity throughout the investigation lifecycle.
+THE ANALYZER is an automated, end-to-end digital forensics pipeline designed for "Triage-to-Package" evidence analysis. It eliminates manual tool configuration, reduces human error, and ensures forensic integrity across all analysis phases.
 
-Given a memory dump or HDD image, THE ANALYZER runs a full investigation — from surface triage to deep memory forensics — and delivers a structured, packaged evidence archive ready for a lead investigator.
+Given a memory dump or HDD image, THE ANALYZER runs a full investigation — from surface triage to deep memory forensics — and delivers a structured, packaged evidence archive ready for a lead investigator or court review.
 
 ---
 
@@ -134,16 +134,16 @@ This tool is developed for **educational purposes** and **authorised forensic in
 ![install](entering_path_checking_system_installing%20foremost.png)
 
 ### Installing Volatility 3
-![volatility install](instaling_volatility.png)
+![volatility install](instaling%20volatility.png)
 
 ### Running Strings — Interactive Keyword Hunt
-![strings](runnibg_strings_interactive.png)
+![strings](running_strings_interactive.png)
 
 ### Volatility Memory Analysis Results
-![volatility results](volatility_results01.png)
+![volatility results](volatility%20results01.png)
 
 ### Foremost Carving Results
-![foremost](formost_carving_results.png)
+![foremost](formost%20carving%20results.png)
 
 ### Final Forensic Inventory & Success
 ![final](final_success.png)
